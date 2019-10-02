@@ -1,0 +1,13 @@
+{
+  "smartuxApp": "1.0",
+  "version": "1.0.0",
+  "date": 1570029790588,
+  "creator": "Test User",
+  "clientVersion": "6.1.0-dev",
+  "id": "docker4447",
+  "name": "docker4447",
+  "serverVersion": "6.1.0-dev",
+  "serverModulesIncluded": true,
+  "buildType": "AOT",
+  "cbUrl": "/cb"
+}
