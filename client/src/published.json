@@ -1,13 +1,13 @@
 {
   "smartuxApp": "1.0",
-  "version": "1.0.0",
-  "date": 1570029790588,
-  "creator": "Test User",
+  "version": "1.0.1",
+  "date": 1570029979003,
+  "creator": "PowWow Admin",
   "clientVersion": "6.1.0-dev",
   "id": "docker4447",
   "name": "docker4447",
   "serverVersion": "6.1.0-dev",
   "serverModulesIncluded": true,
-  "buildType": "AOT",
+  "buildType": "JIT",
   "cbUrl": "/cb"
 }
