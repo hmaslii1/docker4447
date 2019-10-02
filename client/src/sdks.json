@@ -35,9 +35,12 @@
     "id": "cordova-plugin-inappbrowser"
   },
   {
+    "id": "cordova-plugin-splashscreen"
+  },
+  {
     "id": "cordova-plugin-keychain-touch-id"
   },
   {
-    "id": "cordova-plugin-splashscreen"
+    "id": "cordova-plugin-camera"
   }
 ]
