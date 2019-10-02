@@ -36,5 +36,8 @@
   },
   {
     "id": "cordova-plugin-keychain-touch-id"
+  },
+  {
+    "id": "cordova-plugin-splashscreen"
   }
 ]
